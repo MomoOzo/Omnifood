@@ -15,7 +15,6 @@ Omnifood is a modern food delivery service that focuses on healthy eating and su
 - [Contributing](#contributing)
 - [License](#license)
 - [Live Demo](#live-demo)
-- [Screenshots](#screenshots)
 
 ## Features
 
