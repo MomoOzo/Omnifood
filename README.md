@@ -1,11 +1,5 @@
 # Omnifood
 
-## Screenshots
-
-Below are some screenshots of the Omnifood project:
-
-### Homepage
-
 ![Homepage](img/Onimfood%20screenshot.png)
 
 # Omnifood Project
@@ -114,5 +108,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Check out the live demo of Omnifood [here](https://your-live-demo-link.com).
 
 ---
-
-Feel free to customize this README file further to suit your project's requirements.
