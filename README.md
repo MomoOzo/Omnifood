@@ -1,5 +1,13 @@
 # Omnifood
 
+## Screenshots
+
+Below are some screenshots of the Omnifood project:
+
+### Homepage
+
+![Homepage](img/Onimfood%20screenshot.png)
+
 # Omnifood Project
 
 Omnifood is a modern food delivery service that focuses on healthy eating and sustainable practices. With Omnifood, users can enjoy a variety of curated meal plans tailored to their dietary needs, delivered directly to their doorstep.
@@ -104,22 +112,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Live Demo
 
 Check out the live demo of Omnifood [here](https://your-live-demo-link.com).
-
-## Screenshots
-
-Below are some screenshots of the Omnifood project:
-
-### Homepage
-
-![Homepage](path/to/homepage-screenshot.png)
-
-### Meal Plans Section
-
-![Meal Plans](path/to/meal-plans-screenshot.png)
-
-### Order Tracking
-
-![Order Tracking](path/to/order-tracking-screenshot.png)
 
 ---
 
