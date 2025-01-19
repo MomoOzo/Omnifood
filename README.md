@@ -41,4 +41,3 @@ Check out the live demo of Omnifood [here](https://your-live-demo-link.com).
 ---
 a
 a
-a
