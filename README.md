@@ -36,6 +36,6 @@ Omnifood is a modern food delivery service that focuses on healthy eating and su
 
 ## Live Demo
 
-Check out the live demo of Omnifood [here](https://your-live-demo-link.com).
+Check out the live demo of Omnifood [here](https://omnifood-101.netlify.app/).
 
 ---
